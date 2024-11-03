@@ -4,6 +4,10 @@
   "private": false,
   "description": "A custom button component for React.",
   "main": "src/index.js", 
+  "repository": {
+     "type": "git",
+     "url": "https://github.com/DrashtiBorad/customButton.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
