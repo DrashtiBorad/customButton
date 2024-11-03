@@ -1,5 +1,5 @@
 {
-  "name": "custombutton",
+  "name": "custom_button_pacakage",
   "version": "0.1.0",
   "private": false,
   "description": "A custom button component for React.",
